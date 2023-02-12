@@ -74,7 +74,7 @@ const Home = () => {
 
 			<hr />
 
-			<h1>Próximos Filmes</h1>
+			<h1>Próximos Lançamentos</h1>
 			<div className='list-movies'>
 				{nextMovies.map((movie) => {
 					return (
