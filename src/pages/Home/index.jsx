@@ -46,7 +46,7 @@ const Home = () => {
 	if (loading) {
 		return (
 			<div className='loading'>
-				<h2>Carregando Filmes...</h2>
+				<h2>Loading Movies...</h2>
 			</div>
 		);
 	}
